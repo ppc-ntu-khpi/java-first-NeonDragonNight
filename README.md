@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17944619)
 # Створення, виконання та запуск Java-програм 
 
 Це перша лабораторна робота в нашому курсі з ООП, в ході якої ви маєте отримати навички написання (чи редагування), компіляції та перевірки працездатності (запуску) Java-програм. Робота дуже маленька та складається з двох завдань.
